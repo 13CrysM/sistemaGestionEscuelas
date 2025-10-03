@@ -231,6 +231,7 @@ nav.collapsed .link-text {
     padding: 1rem;
     border-radius: 10px;
     margin-bottom: 1rem;
+    background-color: var(--secondary-color);
 }
 
 .formulario-gestion {
@@ -238,6 +239,7 @@ nav.collapsed .link-text {
     padding: 1rem;
     border-radius: 10px;
     margin-bottom: 1rem;
+    background-color: var(--secondary-color);
 }
 
 .formulario-gestion input,
@@ -246,7 +248,9 @@ nav.collapsed .link-text {
     padding: 10px;
     margin: 0.5rem 0;
     border: 1px solid #ccc;
-    border-radius: 6px;
+    border-radius: 10px;
+    border: 2px solid var(--primaru-color);
+    outline: none;
 }
 
 .formulario-gestion button {
