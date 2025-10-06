@@ -36,11 +36,11 @@ Para el prototipado inicial se generaron las pantallas en HTML usando CSS para l
 
 Se eligieron estas pantallas debido a que se considera que las subsecuentes tendrán la misma estructura únicamente cambiando los conceptos para búsqueda o registro dependiendo del tipo de entidad.
 
-![Página_01](Mockups\Login.png)
+![Página_01](mockups\Login.png)
 
-![Página_02](Mockups\Principal.png)
+![Página_02](mockups\Principal.png)
 
-![Página_03](Mockups\Escuelas.png)
+![Página_03](mockups\Escuelas.png)
 
 ### 3.5 Testear
 El testeo por lo pronto queda pendiente hasta no ser programado con los usuarios una reunión dónde se presenterán los prototipos generados, para su revisión y análisis.
